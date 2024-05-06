@@ -1,18 +1,17 @@
-<p>Bem-vindo ao repositório do projeto de Estatística! Neste projeto, exploramos diferentes conceitos e técnicas estatísticas para analisar e interpretar dados. Este README fornecerá uma visão geral do projeto, instruções de instalação e uso, além de outras informações relevantes.</p>
+<p>Bem-vindo ao repositório do projeto de Estatística! Neste projeto, exploramos diferentes conceitos e técnicas estatísticas para analisar e interpretar dados. Este README fornecerá uma visão geral do projeto.</p>
 
 <h2>Visão Geral</h2>
 
-<p>O objetivo deste projeto é aplicar métodos estatísticos para analisar conjuntos de dados e obter insights significativos. Exploraremos várias técnicas, como estatística descritiva, inferência estatística, regressão, entre outras. Além disso, utilizaremos ferramentas e bibliotecas populares, como Python e R, para realizar as análises.</p>
+<p>O objetivo deste projeto é aplicar métodos estatísticos para analisar conjuntos de dados e obter insights significativos. Exploraremos várias técnicas, como estatística descritiva, inferência estatística, regressão, entre outras. Além disso, utilizaremos ferramentas e bibliotecas populares, como a linguagem R, para realizar as análises.</p>
 
 <h2>Requisitos</h2>
 
 <p>Antes de começar, certifique-se de ter as seguintes ferramentas e bibliotecas instaladas:</p>
 
 <ul>
-    <li>Python (versão X.X.X)</li>
     <li>R (versão X.X.X)</li>
     <li>Jupyter Notebook (versão X.X.X)</li>
-    <li>Biblioteca de estatística (exemplo: numpy, pandas, scipy, etc.)</li>
+
 </ul>
 
 
